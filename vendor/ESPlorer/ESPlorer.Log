@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-08-27T22:51:32</date>
+  <millis>1472349092934</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:51:32</date>
+  <millis>1472349092937</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2016-08-27T22:51:32</date>
+  <millis>1472349092939</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets (LUA): loading...</message>
+</record>
+<record>
+  <date>2016-08-27T22:51:32</date>
+  <millis>1472349092940</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets (LUA) load: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:51:33</date>
+  <millis>1472349093120</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2016-08-27T22:51:33</date>
+  <millis>1472349093123</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found last saved serial port COM4</message>
+</record>
+<record>
+  <date>2016-08-27T22:51:33</date>
+  <millis>1472349093125</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:42</date>
+  <millis>1472349222487</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM4 save as default.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:42</date>
+  <millis>1472349222487</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 19200 save as default.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:42</date>
+  <millis>1472349222503</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM4, baud 19200, 8N1</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:42</date>
+  <millis>1472349222567</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM4 - Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:42</date>
+  <millis>1472349222583</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:42</date>
+  <millis>1472349222645</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:47</date>
+  <millis>1472349227083</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to reconnect with baud 9600...</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:47</date>
+  <millis>1472349227083</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(uart.setup(0, 9600, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:47</date>
+  <millis>1472349227286</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:47</date>
+  <millis>1472349227317</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:47</date>
+  <millis>1472349227349</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:56</date>
+  <millis>1472349236231</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Close port COM4 - Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:57</date>
+  <millis>1472349237333</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM4 save as default.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:57</date>
+  <millis>1472349237333</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:57</date>
+  <millis>1472349237333</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM4, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:57</date>
+  <millis>1472349237333</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM4 - Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:57</date>
+  <millis>1472349237349</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:53:57</date>
+  <millis>1472349237458</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:02</date>
+  <millis>1472349242786</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to reconnect with baud 19200...</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:02</date>
+  <millis>1472349242786</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(uart.setup(0, 19200, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:02</date>
+  <millis>1472349242989</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:03</date>
+  <millis>1472349243005</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:03</date>
+  <millis>1472349243036</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:03</date>
+  <millis>1472349243036</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:14</date>
+  <millis>1472349254567</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to reconnect with baud 9600...</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:14</date>
+  <millis>1472349254567</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(uart.setup(0, 9600, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:14</date>
+  <millis>1472349254771</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:14</date>
+  <millis>1472349254817</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:14</date>
+  <millis>1472349254817</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:18</date>
+  <millis>1472349258318</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to reconnect with baud 19200...</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:18</date>
+  <millis>1472349258318</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(uart.setup(0, 19200, 8, 0, 1, 1 ))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:18</date>
+  <millis>1472349258521</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Reconnect: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:18</date>
+  <millis>1472349258536</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:18</date>
+  <millis>1472349258583</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:18</date>
+  <millis>1472349258583</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2016-08-27T22:54:30</date>
+  <millis>1472349270447</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Close port COM4 - Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:58:14</date>
+  <millis>1472349494931</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2016-08-27T22:58:14</date>
+  <millis>1472349494931</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
