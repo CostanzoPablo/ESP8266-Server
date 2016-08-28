@@ -32,7 +32,7 @@
 
 5) Open ESPlorer/ESPlorer.jar (require JAVA 7 or UP: http://java.com/download)
 	
-	Open with it int.lua
+	Open int.lua with it
 	Select 19200 Baudrate and click Open (Normal errors like: Cant autodetect firmware) 
 	Change line wifi.sta.config("ssid","password")
 	And select SAVE to ESP
