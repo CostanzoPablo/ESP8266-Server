@@ -1,0 +1,6 @@
+sudo python esptool.py --port /dev/ttyUSB1 --baud 19200 write_flash --flash_mode dio --flash_freq 40m --flash_size 4m 0x0 ../../../nodemcu\ firmware/blank_1MB.bin
+
+sudo python esptool.py --port /dev/ttyUSB0 --baud 19200 write_flash --flash_mode dio --flash_freq 40m --flash_size 4m 0x0 ../../../nodemcu\ firmware/nodemcu-master-7-modules-2016-09-15-03-51-49-float.bin
+
+sudo python esptool.py --port /dev/ttyUSB0 --baud 19200 write_flash --flash_mode qio --flash_freq 40m --flash_size 4m 0x0 ../../../nodemcu\ firmware/nodemcu_float_0.9.6-dev_20150704.bin
+

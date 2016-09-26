@@ -1,0 +1,16 @@
+path_data:
+choosed:D:\Proyectos\ESP8266\vendor\nodemcu firmware\blank_1MB.bin;0x300000;
+empty:D:\Proyectos\ESP8266\vendor\nodemcu firmware\blank_1MB.bin;0x500000;
+empty:D:\Proyectos\ESP8266\vendor\nodemcu firmware\blank_1MB.bin;0x600000;
+empty:D:\Proyectos\ESP8266\vendor\nodemcu firmware\blank_1MB.bin;0x700000;
+empty:D:\Proyectos\ESP8266\vendor\nodemcu firmware\blank_1MB.bin;0x800000;
+empty:D:\Proyectos\ESP8266\vendor\nodemcu firmware\blank_1MB.bin;0x900000;
+empty:;;
+default_path:D:\Proyectos\ESP8266\vendor\nodemcu firmware;
+COM:
+com_port:3
+baudrate:0
+ID_BIND:
+id_bind_en:0
+id_bind_addr:0x
+
